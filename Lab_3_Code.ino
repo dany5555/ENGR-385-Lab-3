@@ -1,3 +1,16 @@
+/**
+ * ENGR 385 Lab 3
+ * 
+ * This code is designed to control a 7-segment display through the use of a keypad.
+ * When a number is pressed on the keypad, the corresponding number is displayed.
+ * 
+ * Authors:
+ * 
+ * Zack McConnell
+ * Kevin Gonzalez
+ */
+
+
 // Declaring variables and assigning them to their respective pins on the Arduino.
 // The variable names represent the letters used on the display's schematics.
 int a = 1;
